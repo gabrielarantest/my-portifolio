@@ -650,6 +650,46 @@ li {
     color: #9C9C9C;
 }
 
+
+/*-----------------------------------------------------------------*/
+/*                      SECTION PUBLICATIONS                       */
+/*-----------------------------------------------------------------*/
+.publications .item {
+    margin-bottom: 30px;
+}
+
+.publications .item .thumb {
+    height: 180px;
+    overflow: hidden;
+}
+
+.publications .item .thumb img {
+    width: 100%;
+    height: auto;
+}
+
+.publications .item .text h2 {
+    font-size: 18px;
+    font-weight: 400;
+    margin: 0 0 15px;
+}
+
+.publications .item .text p {
+    margin: 0 0 15px;
+}
+
+
+.publications .conferences-info {
+    display: block;
+    position: absolute;
+    right: 0;
+    top: -12px;
+    background: #0C0C0C;
+    color: #FFF;
+    padding: 5px 10px;
+    border-radius: 2px;
+}
+
 /*-----------------------------------------------------------------*/
 /*                      SECTION PEER REVIEW                        */
 /*-----------------------------------------------------------------*/
@@ -1014,7 +1054,7 @@ li {
 }
 
 /*-----------------------------------------------------------------*/
-/*                      SECTION information-section                       */
+/*                      SECTION information-section                */
 /*-----------------------------------------------------------------*/
 .information-section .item .thumb {
     border: solid 1px #ECECEC;
