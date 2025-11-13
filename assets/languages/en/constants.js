@@ -52,6 +52,8 @@ languages["en"]["development-2022-title"] = `Parenting and Kindergarten School R
 languages["en"]["development-2022-description"] = `Paper Symposium at Development 2022: A Canadian Conference on Developmental Psychology, Canada.`;
 languages["en"]["scientific-reports-title"] = `Scientific Reports`;
 languages["en"]["scientific-reports-date"] = `2025`;
+languages["en"]["journal-of-child-psychology-and-psychiatry-title"] = `Journal of Child Psychology and Psychiatry`;
+languages["en"]["journal-of-child-psychology-and-psychiatry-date"] = `2025`;
 languages["en"]["international-journal-environmental-title"] = `International Journal of Environmental Research and Public Health`;
 languages["en"]["international-journal-environmental-date"] = `2024`;
 languages["en"]["european-child-psychiatry-title"] = `European Child & Adolescent Psychiatry`;
@@ -61,7 +63,7 @@ languages["en"]["frontiers-psychiatry-date"] = `2023-2024`;
 languages["en"]["estudos-psicologia-title"] = `Journal Estudos de Psicologia`;
 languages["en"]["estudos-psicologia-date"] = `2019`;
 languages["en"]["frq-prix-releve-etoile-title"] = `Fonds de recherche du Québec – Prix Relève Étoile`;
-languages["en"]["frq-prix-releve-etoile-date"] = `November 2024`;
+languages["en"]["frq-prix-releve-etoile-date"] = `November 2025`;
 languages["en"]["frq-prix-releve-etoile-description"] = `Prize Relève étoile from the FRQ for recognition of exceptional research contribution. Value: 1,500 CAD.`;
 languages["en"]["frq-prix-releve-etoile-location"] = `<strong>Université de Sherbrooke, Canada</strong>`;
 languages["en"]["frqsc-b3z-scholarship-title"] = `Fonds de recherche du Québec – Société et culture (FRQSC) B3Z Scholarship`;
@@ -136,8 +138,26 @@ games and the effect of internet use on the anxiety symptoms of girls. Below are
 coverages that featured my research
 `
 languages["en"]["psypost-title"] = `Psypost, November 2023`
+
 languages["en"]["psypost-description"] = `<a href="https://www.psypost.org/internet-use-predicts-heightened-anxiety-symptoms-in-adolescent-girls-but-not-boys/#google_vignette" target="_blank">Use predicts heightened anxiety symptoms in adolescent girls, but not boys.</a> This particular publication created repercussions on public forums (<a href="https://www.reddit.com/r/science/comments/17unf9m/internet_use_predicts_heightened_anxiety_symptoms/?rdt=32840" target="_blank">Reddit</a>).`
 languages["en"]["tele-noovo-title"] = `Télé Noovo, April 2022`
+languages["en"]["prolonged-internet-use-a-source-of-anxiety-title"] = `Le Devoir, October 2025. Prolonged internet use, a source of anxiety for teenage girls.`;
+languages["en"]["prolonged-internet-use-a-source-of-anxiety-description"] = `<a href="https://www.ledevoir.com/actualites/sante/925752/usage-prolonge-internet-source-anxiete-adolescentes" target="_blank">Une recherche menée à l’Université de Sherbrooke</a> a établi un lien entre le temps que les adolescentes passent en ligne et leur niveau d’anxiété. Cette étude, à laquelle a contribué Gabriel Arantes Tiraboschi, lui a valu de recevoir le prix Relève étoile Paul-Gérin-Lajoie du Fonds de recherche du Québec.`;
+languages["en"]["le-reveil-ipe-spritesheet-premiere-title"] = `Radio Canada, September 2025. Internet and anxiety among adolescent girls.`;
+languages["en"]["le-reveil-ipe-spritesheet-premiere-description"] = `<a href="https://ici.radio-canada.ca/ohdio/premiere/emissions/le-reveil-ile-du-prince-edouard/segments/rattrapage/2187220/internet-et-anxiete-chez-ados" target="_blank">Podcast spotlights</a> Université de Sherbrooke study: Prof. Gabriel Arantes Tiraboschi links heavy internet use at 15 to anxiety at 17 in girls`;
+languages["en"]["estrie-september-2025-internet-causes-anxiety-in-adolescent-girls-title"] = `107.7 Estrie, September 2025. Internet causes anxiety in adolescent girls.`;
+languages["en"]["estrie-september-2025-internet-causes-anxiety-in-adolescent-girls-description"] = `<a href="https://www.fm1077.ca/audio/722959/l-internet-cause-de-l-anxiete-chez-nos-adolescents" target="_blank">Internet anxiety among teenagers is real</a>, according to a postdoctoral study published in Preventive Medicine Report.`;
+languages["en"]["internet-et-anxiete-les-filles-plus-touchees-selon-ludes-title"] = `Estrie Plus, September 2025. Internet and anxiety: girls more affected.`;
+languages["en"]["internet-et-anxiete-les-filles-plus-touchees-selon-ludes-description"] = `<a href="https://www.fm1077.ca/audio/722959/l-internet-cause-de-l-anxiete-chez-nos-adolescents" target="_blank">A recent study from the University of Sherbrooke highlights</a> the link between time spent online and anxiety in adolescent girls, underscoring their particular vulnerability. Gabriel Arantes Tiraboschi's work earned him the Relève étoile Paul-Gérin-Lajoie award from the Fonds de recherche du Québec.`;
+languages["en"]["le-tva-nouvelles-18h-de-sherbrooke-du-11-septembre-2025-title"] = `TVA (French-speaking Canadian TV network), September 2025. Internet and Anxiety.`;
+languages["en"]["le-tva-nouvelles-18h-de-sherbrooke-du-11-septembre-2025-description"] = `<a href="https://www.tvaplus.ca/tva/le-tva-nouvelles-sherbrooke/saison-1/le-tva-nouvelles-18h-de-sherbrooke-du-11-septembre-2025-396948368" target="_blank">TVA (French-speaking Canadian TV network), September 2025. Internet and Anxiety.</a>`;
+languages["en"]["internet-et-anxiete-chez-les-ados-les-filles-plus-vulnerables-title"] = `Université de Sherbrooke, September 2025. Internet and anxiety among adolescents: girls more vulnerable.`;
+languages["en"]["internet-et-anxiete-chez-les-ados-les-filles-plus-vulnerables-description"] = `<a href="https://www.usherbrooke.ca/actualites/nouvelles/societe/details/56226" target="_blank">The more time a teenage girl spends online at age 15</a>, the greater her risk of experiencing anxiety symptoms at age 17. This is true for girls, but not for boys. This is the finding of a study by University of Sherbrooke postdoctoral fellow Gabriel Arantes Tiraboschi, published in the journal Preventive Medicine Reports, which earned him the Relève étoile Paul-Gérin-Lajoie award from the Fonds de recherche du Québec.`;
+languages["en"]["study-finds-video-games-lead-to-decreased-learning-interest-in-boys-title"] = `Washington Times, August 2025. Study finds video games lead to decreased learning interest in boys`;
+languages["en"]["study-finds-video-games-lead-to-decreased-learning-interest-in-boys-description"] = `<a href="https://www.usherbrooke.ca/actualites/nouvelles/societe/details/56226" target="_blank">School-age boys become less interested in learning reading</a>, writing and math the more they play video games, a Canadian study has found.`;
+languages["en"]["tdah-jeux-video-ecrans-title"] = `TDAH et jeux vidéo : le cercle vicieux des écrans. Québec Science 2025`;
+languages["en"]["tdah-jeux-video-ecrans-description"] = `<a href="https://www.quebecscience.qc.ca/sante/tdah-jeux-video-ecrans/" target="_blank">Video games may well worsen ADHD</a>, but only after a certain age, according to a Quebec team.`;
+
 languages["en"]["tele-noovo-description"] = `<a href="https://www.noovo.info/video/prudence-chez-les-jeunes-plus-de-jeux-video-plus-de-tdah.html" target="_blank">Prudence among youth: more video games, more ADHD?</a>`
 languages["en"]["additude-title"] = `ADDitude, February 2022`
 languages["en"]["additude-description"] = `<a href="https://www.additudemag.com/playing-video-games-increases-adhd-symptoms-in-kids-news/" target="_blank">Study: Playing Video Games Increases Kids’ Risk for Developing ADHD Symptoms.</a>`

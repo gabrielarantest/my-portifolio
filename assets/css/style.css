@@ -650,7 +650,6 @@ li {
     color: #9C9C9C;
 }
 
-
 /*-----------------------------------------------------------------*/
 /*                      SECTION PUBLICATIONS                       */
 /*-----------------------------------------------------------------*/
@@ -1056,7 +1055,8 @@ li {
 /*-----------------------------------------------------------------*/
 /*                      SECTION information-section                */
 /*-----------------------------------------------------------------*/
-.information-section .item .thumb {
+
+.software-development-section .item .thumb {
     border: solid 1px #ECECEC;
     width: 128px;
     height: 128px;
@@ -1067,12 +1067,70 @@ li {
     border-radius: 50%;
 }
 
-.information-section .item .text span.author {
+.software-development-section .item .text span.author {
     color: #B1B1B1;
-    font-family: "Montserrat",sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-size: 12px;
 }
 
+.information-section {
+    position: relative;
+    background: url(../images/information-background.jpg) center top no-repeat;
+    background-size: cover;
+}
+.information-section::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.80);
+    z-index: 0;
+}
+.information-section .information-section-item {
+    /* position e z-index já controlados acima se quiser, pode manter também */
+    position: relative;
+    z-index: 1;
+}
+
+.information-section .information-section-item h2 {
+    font-family: "Montserrat", sans-serif !important;
+    font-size: 20px !important;
+    font-style: normal !important;
+    color: #FFF !important;
+    margin: 0 0 8px !important;
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: flex-end !important;
+}
+
+.information-section .education-item h4 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    color: #CFCFCF;
+    margin: 0 0 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.information-section .information-section-item h5 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    color: #CFCFCF;
+    margin: 0 0 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.information-section .information-section-item p {
+    color: #FFF;
+    font-family: "Montserrat", sans-serif;
+    font-style: normal;
+    font-weight: 100;
+    font-size: 14px;
+}
 /*-----------------------------------------------------------------*/
 /*                      SECTION CONFERENCES                        */
 /*-----------------------------------------------------------------*/
