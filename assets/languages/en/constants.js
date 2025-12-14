@@ -1,7 +1,7 @@
 languages["en"] = languages["en"] || {};
 languages["en"]["ADHD-2025-title"] = `Bidirectional associations between video game playing and ADHD symptoms among school-aged children`;
 languages["en"]["ADHD-2025-description"] = `<b>Tiraboschi, G. A.</b>, Fitzpatrick, C., Kim, H. S., Superbia-Guimarães, L., Kosak, L. A., &amp; Garon-Carrier, G. (2025). Bidirectional associations between video game playing and ADHD symptoms among school-aged children. <i>Computers in Human Behavior Reports</i>, 19, 100740.`;
-languages["en"]["longitudinal-associations-between-gaming-and-academic-motivation-during-middle-childhood-title"] = `Longitudinal associations between gaming and academic motivation during middle childhood. Psychological Medicine, 55:e235.`;
+languages["en"]["longitudinal-associations-between-gaming-and-academic-motivation-during-middle-childhood-title"] = `Longitudinal associations between gaming and academic motivation during middle childhood. Psychological Medicine.`;
 languages["en"]["longitudinal-associations-between-gaming-and-academic-motivation-during-middle-childhood-description"] = `<b>Tiraboschi, G.A.</b>, Garon-Carrier, G., Surprenant, R., Smith., J., Madigan, S., Fitzpatrick, C. (2025).`;
 languages["en"]["early-childhood-screen-use-and-symptoms-of-problematic-media-use-journal-of-behavioral-addictions-title"] = `Early childhood screen use and symptoms of problematic media use. Journal of Behavioral Addictions`;
 languages["en"]["early-childhood-screen-use-and-symptoms-of-problematic-media-use-journal-of-behavioral-addictions-description"] = `Fitzpatrick, C., Binet, M-A., Spitzer, D.T., <b>Tiraboschi, G.A.</b>, Domoff, S., Garon-Carrier, G., Tavares, H. (2025).`;
@@ -70,11 +70,11 @@ languages["en"]["estudos-psicologia-title"] = `Journal Estudos de Psicologia`;
 languages["en"]["estudos-psicologia-date"] = `2019`;
 languages["en"]["frq-prix-releve-etoile-title"] = `Fonds de recherche du Québec – Prix Relève Étoile`;
 languages["en"]["frq-prix-releve-etoile-date"] = `November 2025`;
-languages["en"]["frq-prix-releve-etoile-description"] = `Prize Relève étoile from the FRQ for recognition of exceptional research contribution. Value: 1,500 CAD.`;
+languages["en"]["frq-prix-releve-etoile-description"] = `<a href="https://frq.gouv.qc.ca/histoire-et-rapport/releve-etoile-paul-gerin-lajoie-aout-2025/" target="_blank">Prize Relève étoile from the FRQ for recognition of exceptional research contribution. Value: 1,500 CAD.</a>`;
 languages["en"]["frq-prix-releve-etoile-location"] = `<strong>Université de Sherbrooke, Canada</strong>`;
 languages["en"]["frqsc-b3z-scholarship-title"] = `Fonds de recherche du Québec – Société et culture (FRQSC) B3Z Scholarship`;
 languages["en"]["frqsc-b3z-scholarship-date"] = `April 2023`;
-languages["en"]["frqsc-b3z-scholarship-description"] = `Canadian grant awarded for postdoctoral applications (project and curriculum analysis). Project title: Estimating the longitudinal associations between school-aged children's media habits and academic achievement. Value: 90,000 CAD.`;
+languages["en"]["frqsc-b3z-scholarship-description"] = `Canadian funding awarded for postdoctoral applications (project and curriculum analysis). Project title: Estimating the longitudinal associations between school-aged children's media habits and academic achievement. Value: 90,000 CAD.`;
 languages["en"]["frqsc-b3z-scholarship-location"] = `<strong>Université de Sherbrooke, Canada</strong>`;
 languages["en"]["capes-print-scholarship-title"] = `CAPES-PRINT Scholarship`;
 languages["en"]["capes-print-scholarship-date"] = `March 2019`;
@@ -100,7 +100,7 @@ languages["en"]["cnpq-pibic-scholarship-title"] = `CNPq PIBIC Scholarship for Un
 languages["en"]["cnpq-pibic-scholarship-date"] = `July 2012`;
 languages["en"]["cnpq-pibic-scholarship-description"] = `Brazilian grant awarded for undergrad students to conduct research. Awarded twice, each covering 1 year of research. Value: 4,800 BRL each.`;
 languages["en"]["cnpq-pibic-scholarship-location"] = `<strong>University of São Paulo, Brazil</strong>`;
-languages["en"]["introduction-text"] = `Hello, I am a Psychologist and Researcher specialized in the effects of screen media on vision, cognition, and mental health, with international experience and expertise in psychological assessment, experimental design, and data analysis. On this site, you’ll get to know me better, but here’s a brief summary of my skills:`
+languages["en"]["introduction-text"] = `Skills:`
 languages["en"]["research-title"] = `Research`;
 languages["en"]["research-time"] = `10 years`;
 languages["en"]["research-description"] = `Psychological methods, Design, Data collection, Analysis, Reporting, and Presentation`;
@@ -182,40 +182,14 @@ languages["en"]["jornal-usp-description"] = `<a href="https://jornal.usp.br/cien
 languages["en"]["software-development"] = `Software development`
 languages["en"]["software-development-abbrv"] = `Software`
 languages["en"]["software-development-first-paragraph"] = `<strong>Software for teaching psychophysical methods:</strong><br/>
-<a href="https://sites.usp.br/psicofisica/pagina-1/exercicios-experimentais/" target="_blank">I developed 2 windows-based software </a> to simulate psychophysical tasks for undergraduate students in Psychology. The students completed these tasks and analyzed their own results. The <a href="http://sites.usp.br/psicofisica/wp-content/uploads/sites/392/2018/08/exerc1.zip" target="_blank">first software</a> is a demonstration of the Constant Stimuli Method and the second is a demonstration of the Signal Detection Theory. These software can be downloaded through the <a href="https://sites.usp.br/psicofisica/pagina-1/exercicios-experimentais/" target="_blank">Laboratory of Perception and Psychophysics website </a> and are still used today for the Basic Psychological Processes III course. Videos from my YouTube channel teach students how to analyze the data resulting from these tasks.
+<a href="https://sites.usp.br/psicofisica/pagina-1/exercicios-experimentais/" target="_blank">I developed 2 windows-based software </a> to simulate psychophysical tasks for undergraduate students in Psychology. The students completed these tasks and analyzed their own results. The <a href="http://sites.usp.br/psicofisica/wp-content/uploads/sites/392/2018/08/exerc1.zip" target="_blank">first software</a> is a demonstration of the Constant Stimuli Method and the second is a demonstration of the Signal Detection Theory. These software can be downloaded through the <a href="https://sites.usp.br/psicofisica/pagina-1/exercicios-experimentais/" target="_blank">Laboratory of Perception and Psychophysics website </a> and are still used today for the Basic Psychological Processes III course. Videos from my <a href="https://www.youtube.com/@metodospsicofisicos6586/featured" target="_blank">YouTube channel</a> teach students how to analyze the data resulting from these tasks.
 `
 languages["en"]["software-development-second-paragraph"] = `<strong>Programming computerized experimental tasks for data collection:</strong><br/>
 I developed computer tasks to collect data for various laboratory experiments with human participants during my graduate studies at the University of São Paulo. Examples of this are a computerized task to assess the <a href="https://github.com/gabrielarantest/StaircaseFaces" target="_blank">perception of facial emotion</a> or to test <a href="https://github.com/gabrielarantest/attention-network-test-matlab" target="_blank">visual attention</a>, which have been used in my PhD thesis. I also programmed other experiments that can be <a href="https://github.com/gabrielarantest/" target="_blank">downloaded on GitHub for free</a>.
 `
 languages["en"]["who-am-i"] = `Who am I`
 languages["en"]["who-am-i-first-paragraph"] = `
-I am a Psychologist and Researcher with a solid foundation in psychological research,
-specializing in the effects of screen media on vision, cognition, and mental health. With
-extensive international experience, I have contributed to significant studies across Brazil and
-Canada, bringing both clinical and research expertise to my work.
-`
-languages["en"]["who-am-i-second-paragraph"] = `
-I hold a BA in Psychology, a Master’s, and a Ph.D. in Psychobiology, all from the University of
-São Paulo, one of Latin America’s leading institutions. My professional development began with
-an undergraduate research grant to study the visual processing of body images using
-psychophysical methods. Since then, during my graduate studies, I have led research
-investigating how video games influence visual attention, including international collaborations
-in Canada supported by a research grant for an internship at Université de Montréal and McGill
-University.
-`
-languages["en"]["who-am-i-third-paragraph"] = `
-In my professional career, I have served as a Psychology professor at São Paulo State University
-and was later invited to work as a Postdoctoral Fellow at Université de Sherbrooke, Canada.
-There, I focused on examining screen media’s effects on child and adolescent development,
-receiving a two-year research grant from Fonds de Recherche du Québec to support this work.
-My research has been featured in prominent media outlets, including Radio Canada (CBC), and
-was presented in several conferences across the world.
-`
-languages["en"]["who-am-i-forth-paragraph"] = `
-Throughout my career, I have developed expertise in statistical analysis, including complex
-statistical modeling of large datasets using structural equation modeling, as well as in
-experimental design and psychological assessment. I have a strong track record of publishing in
-reputable journals and am now seeking to apply my skills to industry roles where I can leverage
-my research insights to drive data-driven strategies and contribute to the development of
-innovative products and solutions that promote user well-being and cognitive health.
+<p>I am a psychologist and researcher with a strong background in quantitative methods.</p>
+<p>My work focuses on understanding how children, adolescents, and young adults interact with digital   media, and how these experiences shape their psychological, cognitive, and educational development
+ on with digital media.</p>
 `
