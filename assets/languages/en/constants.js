@@ -32,7 +32,7 @@ languages["en"]["action-games-2019-description"] = `<b>Tiraboschi, G. A.</b>, &a
 languages["en"]["job-description"] = `Psychologist and Researcher`;
 languages["en"]["get-in-touch"] = `Get In Touch`;
 languages["en"]["about-navbar"] = `About`;
-languages["en"]["prizes-navbar"] = `Prizes`;
+languages["en"]["prizes-navbar"] = `Prizes and Funding`;
 languages["en"]["contact-navbar"] = `Contact`;
 languages["en"]["resume-navbar"] = `Resume`;
 languages["en"]["conferences-presentations"] = `Conferences`;
@@ -117,8 +117,8 @@ languages["en"]["teaching-mentoring-time"] = `6 years`;
 languages["en"]["teaching-mentoring-description"] = `Psychology for undergraduate and graduate students`;
 languages["en"]["postdoctoral-fellow-title"] = `Postdoctoral Fellow`
 languages["en"]["postdoctoral-fellow-date"] = `2022 - Present`
-languages["en"]["postdoctoral-fellow-description"] = `Lead research projects about human development with statistical analysis of large datasets; supervised graduate and undergraduate-level students on their research projects. In the first year of the postdoctoral internship, I was awarded a research grant covering 2 years for my project on the investigation of media habits on academic achievements. This grant can be extended for an additional year.`
-languages["en"]["postdoctoral-fellow-location"] = `<strong>Université de Sherbrooke, Canada</strong>`
+languages["en"]["postdoctoral-fellow-description"] = `Lead research projects on developmental psychology using longitudinal large-scale datasets.`
+languages["en"]["postdoctoral-fellow-location"] = `<strong>Université de Sherbrooke, Quebec, CA</strong>`
 languages["en"]["fixed-term-lecturer-title"] = `Fixed-term Lecturer`;
 languages["en"]["fixed-term-lecturer-date"] = `2021 - 2022`;
 languages["en"]["fixed-term-lecturer-description"] = `Teaching Psychology in two undergraduate-level courses: “Biological Basis of Behavior” and “Psychology and People with Disabilities”.`;
@@ -162,7 +162,7 @@ languages["en"]["le-tva-nouvelles-18h-de-sherbrooke-du-11-septembre-2025-descrip
 languages["en"]["internet-et-anxiete-chez-les-ados-les-filles-plus-vulnerables-title"] = `Université de Sherbrooke, September 2025. Internet and anxiety among adolescents: girls more vulnerable.`;
 languages["en"]["internet-et-anxiete-chez-les-ados-les-filles-plus-vulnerables-description"] = `<a href="https://www.usherbrooke.ca/actualites/nouvelles/societe/details/56226" target="_blank">The more time a teenage girl spends online at age 15</a>, the greater her risk of experiencing anxiety symptoms at age 17. This is true for girls, but not for boys. This is the finding of a study by University of Sherbrooke postdoctoral fellow Gabriel Arantes Tiraboschi, published in the journal Preventive Medicine Reports, which earned him the Relève étoile Paul-Gérin-Lajoie award from the Fonds de recherche du Québec.`;
 languages["en"]["study-finds-video-games-lead-to-decreased-learning-interest-in-boys-title"] = `Washington Times, August 2025. Study finds video games lead to decreased learning interest in boys`;
-languages["en"]["study-finds-video-games-lead-to-decreased-learning-interest-in-boys-description"] = `<a href="https://www.usherbrooke.ca/actualites/nouvelles/societe/details/56226" target="_blank">School-age boys become less interested in learning reading</a>, writing and math the more they play video games, a Canadian study has found.`;
+languages["en"]["study-finds-video-games-lead-to-decreased-learning-interest-in-boys-description"] = `<a href="https://www.washingtontimes.com/news/2025/aug/25/study-finds-video-games-lead-decreased-learning-interest-boys/" target="_blank">School-age boys become less interested in learning reading</a>, writing and math the more they play video games, a Canadian study has found.`;
 languages["en"]["tdah-jeux-video-ecrans-title"] = `TDAH et jeux vidéo : le cercle vicieux des écrans. Québec Science 2025`;
 languages["en"]["tdah-jeux-video-ecrans-description"] = `<a href="https://www.quebecscience.qc.ca/sante/tdah-jeux-video-ecrans/" target="_blank">Video games may well worsen ADHD</a>, but only after a certain age, according to a Quebec team.`;
 
@@ -192,6 +192,6 @@ I developed computer tasks to collect data for various laboratory experiments wi
 languages["en"]["who-am-i"] = `Who am I`
 languages["en"]["who-am-i-first-paragraph"] = `
 <p>I am a psychologist and researcher with a strong background in quantitative methods.</p>
-<p>My work focuses on understanding how children, adolescents, and young adults interact with digital   media, and how these experiences shape their psychological, cognitive, and educational development
+<p>My work focuses on understanding how children, adolescents, and young adults interact with digital   media, and how these experiences shape their psychological, cognitive, and educational development.
  on with digital media.</p>
 `
