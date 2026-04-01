@@ -192,6 +192,5 @@ I developed computer tasks to collect data for various laboratory experiments wi
 languages["en"]["who-am-i"] = `Who am I`
 languages["en"]["who-am-i-first-paragraph"] = `
 <p>I am a psychologist and researcher with a strong background in quantitative methods.</p>
-<p>My work focuses on understanding how children, adolescents, and young adults interact with digital   media, and how these experiences shape their psychological, cognitive, and educational development.
- on with digital media.</p>
+<p>My work focuses on understanding how children, adolescents, and young adults interact with digital   media, and how these experiences shape their psychological, cognitive, and educational development.</p>
 `
