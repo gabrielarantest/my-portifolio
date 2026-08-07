@@ -10,5 +10,5 @@ function sendMail() {
     const body = `Name: ${name}%0AEmail: ${email}%0APhone: ${phone}%0A%0AMessage:%0A${message}`;
 
     // Criando o link mailto
-    window.location.href = `mailto:gabriel_arantes_t@hotmail.com?subject=${encodeURIComponent(subject)}&body=${body}`;
+    window.location.href = `mailto:gabriel.arantestiraboschi@mail.mcgill.ca?subject=${encodeURIComponent(subject)}&body=${body}`;
   }
